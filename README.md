@@ -1,4 +1,4 @@
-# HibernateProject1
+# HibernateProject E-Commerce
 
 ## Java Hibernate CRUD Project
 
